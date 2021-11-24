@@ -1,0 +1,68 @@
+body {
+
+   background-color: #eee;
+ }
+
+ .btn {
+    border-radius: 20px; 
+    background-color: #0056b3;
+ }
+
+/*Форма авторизации и информация о системе*/
+/*Authorization form and system information*/
+#aut{
+	margin-top: 10%;
+}
+.aut_form{
+	background-color:#FFFFFF;
+}
+.aut_form h2{
+	margin-top: 20%;
+	text-align: center;
+	color: #0056b3;
+	
+}
+#login{
+	margin-left: 25%;
+	border-radius: 20px;
+}
+ #password{
+	margin-left: 25%;
+	border-radius: 20px;
+}
+#fl_aut{
+	margin-left: 25%;
+	border-radius: 20px;
+	color: #000000;
+}
+.but_aut{
+ 	margin-top: 5%;
+	margin-left: 25%;
+	margin-right: -25%;
+ }
+.info{
+	background-color:#0056b3;
+}
+
+.info h3{
+	margin-top: 5%;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.main_text{
+	margin-left: 5%;
+	margin-right: 5%;
+	color: #FFFFFF;
+}
+.main_text2{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	color: #FFFFFF;
+}
+.err p{
+	color: #FF0000;
+	margin-left: 25%;
+}
+
